@@ -13,6 +13,7 @@
 		651842D12A5F2FE5000D15D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 651842CF2A5F2FE5000D15D5 /* Main.storyboard */; };
 		651842D32A5F2FE6000D15D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 651842D22A5F2FE6000D15D5 /* Assets.xcassets */; };
 		651842D62A5F2FE6000D15D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 651842D42A5F2FE6000D15D5 /* LaunchScreen.storyboard */; };
+		651842DE2A5F3F8B000D15D5 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651842DD2A5F3F8B000D15D5 /* DefinitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		651842D22A5F2FE6000D15D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		651842D52A5F2FE6000D15D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		651842D72A5F2FE6000D15D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		651842DD2A5F3F8B000D15D5 /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				651842C92A5F2FE5000D15D5 /* AppDelegate.swift */,
 				651842CB2A5F2FE5000D15D5 /* SceneDelegate.swift */,
 				651842CD2A5F2FE5000D15D5 /* ViewController.swift */,
+				651842DD2A5F3F8B000D15D5 /* DefinitionViewController.swift */,
 				651842CF2A5F2FE5000D15D5 /* Main.storyboard */,
 				651842D22A5F2FE6000D15D5 /* Assets.xcassets */,
 				651842D42A5F2FE6000D15D5 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				651842CE2A5F2FE5000D15D5 /* ViewController.swift in Sources */,
+				651842DE2A5F3F8B000D15D5 /* DefinitionViewController.swift in Sources */,
 				651842CA2A5F2FE5000D15D5 /* AppDelegate.swift in Sources */,
 				651842CC2A5F2FE5000D15D5 /* SceneDelegate.swift in Sources */,
 			);
