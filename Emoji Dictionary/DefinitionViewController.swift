@@ -23,7 +23,7 @@ class DefinitionViewController: UIViewController {
         emojiLabel.text = emoji
         
         if emoji == "😎" {
-            definitionLabel.text = "I'm the Coolest Emoji!"
+            definitionLabel.text = "I'm the Coolest!"
         } else if emoji == "💩" {
             definitionLabel.text = "The Stinkiest Emoji! A poop!"
         } else if emoji == "😀" {
