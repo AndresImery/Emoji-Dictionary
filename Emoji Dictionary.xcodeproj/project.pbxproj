@@ -14,6 +14,7 @@
 		651842D32A5F2FE6000D15D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 651842D22A5F2FE6000D15D5 /* Assets.xcassets */; };
 		651842D62A5F2FE6000D15D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 651842D42A5F2FE6000D15D5 /* LaunchScreen.storyboard */; };
 		651842DE2A5F3F8B000D15D5 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651842DD2A5F3F8B000D15D5 /* DefinitionViewController.swift */; };
+		65A117C02A677814000D2043 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65A117BF2A677814000D2043 /* Emoji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		651842D52A5F2FE6000D15D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		651842D72A5F2FE6000D15D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		651842DD2A5F3F8B000D15D5 /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
+		65A117BF2A677814000D2043 /* Emoji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				651842CB2A5F2FE5000D15D5 /* SceneDelegate.swift */,
 				651842CD2A5F2FE5000D15D5 /* ViewController.swift */,
 				651842DD2A5F3F8B000D15D5 /* DefinitionViewController.swift */,
+				65A117BF2A677814000D2043 /* Emoji.swift */,
 				651842CF2A5F2FE5000D15D5 /* Main.storyboard */,
 				651842D22A5F2FE6000D15D5 /* Assets.xcassets */,
 				651842D42A5F2FE6000D15D5 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65A117C02A677814000D2043 /* Emoji.swift in Sources */,
 				651842CE2A5F2FE5000D15D5 /* ViewController.swift in Sources */,
 				651842DE2A5F3F8B000D15D5 /* DefinitionViewController.swift in Sources */,
 				651842CA2A5F2FE5000D15D5 /* AppDelegate.swift in Sources */,
